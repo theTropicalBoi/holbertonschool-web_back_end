@@ -16,17 +16,17 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-env": "^0.0.0",
-    "chai": "^4.4.1",
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.29.1",
-    "eslint-plugin-jest": "^28.11.0",
-    "lint": "*",
-    "mocha": "^11.4.0",
-    "nodemon": "^3.1.10",
-    "request": "^2.88.2",
-    "sinon": "^7.5.0"
+      "babel-cli": "^6.26.0",
+      "babel-preset-env": "^1.7.0",
+      "lint": "*",
+      "eslint": "^6.8.0",
+      "eslint-config-airbnb-base": "^14.2.1",
+      "eslint-plugin-import": "^2.29.1",
+      "eslint-plugin-jest": "^22.21.0",
+      "nodemon": "^2.0.22",
+      "chai": "^4.4.1",
+      "mocha": "^6.2.3",
+      "request": "^2.88.2",
+      "sinon": "^7.5.0"
   }
 }
