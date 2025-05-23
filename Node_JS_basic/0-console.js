@@ -1,3 +1,3 @@
-function displayMessage(args) {
-  console.log(args);
+function displayMessage(message) {
+  console.log(message);
 }
